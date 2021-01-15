@@ -1,4 +1,3 @@
-let request = require('request');
 const fs = require('fs');
 const readline = require('readline').createInterface({
   input: process.stdin,
