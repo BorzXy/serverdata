@@ -1,0 +1,19 @@
+{
+  "name": "server_data.php",
+  "version": "3.0.0",
+  "description": "",
+  "main": "serverdata.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniloanantaa"
+  },
+  "author": "ImDanilo aka BorzXy",
+  "license": "ISC"
+}
