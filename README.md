@@ -7,6 +7,4 @@ put your vps ip, port, and put maintenance message!
 This just server_data.php maker from javascrip
 # Credit
 Clayne:
-https://github.com/ClayneID and
-Galvin:
-https://github.com/GalvinID
+https://github.com/ClayneID
